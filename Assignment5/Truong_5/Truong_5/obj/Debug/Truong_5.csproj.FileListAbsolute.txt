@@ -1,0 +1,12 @@
+c:\users\office04\documents\visual studio 2012\Projects\Truong_5\Truong_5\bin\Debug\Truong_5.exe.config
+c:\users\office04\documents\visual studio 2012\Projects\Truong_5\Truong_5\bin\Debug\Truong_5.exe
+c:\users\office04\documents\visual studio 2012\Projects\Truong_5\Truong_5\bin\Debug\Truong_5.pdb
+c:\users\office04\documents\visual studio 2012\Projects\Truong_5\Truong_5\obj\Debug\Truong_5.csprojResolveAssemblyReference.cache
+c:\users\office04\documents\visual studio 2012\Projects\Truong_5\Truong_5\obj\Debug\Truong_5.exe
+c:\users\office04\documents\visual studio 2012\Projects\Truong_5\Truong_5\obj\Debug\Truong_5.pdb
+C:\Users\Office04\Desktop\C# programming I\Assignment5\Truong_5\Truong_5\bin\Debug\Truong_5.exe.config
+C:\Users\Office04\Desktop\C# programming I\Assignment5\Truong_5\Truong_5\obj\Debug\Truong_5.exe
+C:\Users\Office04\Desktop\C# programming I\Assignment5\Truong_5\Truong_5\obj\Debug\Truong_5.pdb
+C:\Users\Office04\Desktop\C# programming I\Assignment5\Truong_5\Truong_5\bin\Debug\Truong_5.exe
+C:\Users\Office04\Desktop\C# programming I\Assignment5\Truong_5\Truong_5\bin\Debug\Truong_5.pdb
+C:\Users\Office04\Desktop\C# programming I\Assignment5\Truong_5\Truong_5\obj\Debug\Truong_5.csprojResolveAssemblyReference.cache

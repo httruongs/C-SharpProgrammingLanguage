@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Sales">
+</Property><Property Name="Solution File" Value="F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Sales.sln">
+</Property><Property Name="User Options File" Value="F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Sales.suo">
+</Property><Property Name="Date" Value="Saturday, March 23, 2013">
+</Property><Property Name="Time" Value="10:00 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Sales.sln" Description="File successfully backed up as F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Backup\Sales.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Sales.suo" Description="File successfully backed up as F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Backup\Sales.suo">
+</Event><Event ErrorLevel="0" Project="Sales" Source="Sales\Sales.csproj" Description="Project file successfully backed up as F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Backup\Sales\Sales.csproj">
+</Event><Event ErrorLevel="0" Project="Sales" Source="Sales\Sales.csproj.user" Description="Project user file successfully backed up as F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Backup\Sales\Sales.csproj.user">
+</Event><Event ErrorLevel="0" Project="Sales" Source="Sales\SalesTest.cs" Description="File successfully backed up as F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Backup\Sales\SalesTest.cs">
+</Event><Event ErrorLevel="0" Project="Sales" Source="Sales\Sales.cs" Description="File successfully backed up as F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Backup\Sales\Sales.cs">
+</Event><Event ErrorLevel="0" Project="Sales" Source="Sales\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\__A N G E L\__Spring_2013\1526_ww\Week_04\Assignment_4\ex05_19Starter\Sales\Backup\Sales\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Sales" Source="Sales\Sales.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Sales" Source="Sales\Sales.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Sales.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Sales.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Sales" Source="Sales\Sales.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

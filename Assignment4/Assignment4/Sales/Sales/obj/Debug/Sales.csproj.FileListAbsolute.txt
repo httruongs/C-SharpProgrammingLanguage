@@ -1,0 +1,5 @@
+C:\Users\Office04\Documents\C# programming I\Assignment4\Assignment4\Sales\Sales\bin\Debug\Sales.exe
+C:\Users\Office04\Documents\C# programming I\Assignment4\Assignment4\Sales\Sales\bin\Debug\Sales.pdb
+C:\Users\Office04\Documents\C# programming I\Assignment4\Assignment4\Sales\Sales\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+C:\Users\Office04\Documents\C# programming I\Assignment4\Assignment4\Sales\Sales\obj\Debug\Sales.exe
+C:\Users\Office04\Documents\C# programming I\Assignment4\Assignment4\Sales\Sales\obj\Debug\Sales.pdb

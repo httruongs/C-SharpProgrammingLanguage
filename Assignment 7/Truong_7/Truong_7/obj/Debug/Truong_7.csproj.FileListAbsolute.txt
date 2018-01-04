@@ -1,0 +1,6 @@
+C:\Users\Office04\Desktop\C# programming I\Assignment 7\Truong_7\Truong_7\bin\Debug\Truong_7.exe.config
+C:\Users\Office04\Desktop\C# programming I\Assignment 7\Truong_7\Truong_7\bin\Debug\Truong_7.exe
+C:\Users\Office04\Desktop\C# programming I\Assignment 7\Truong_7\Truong_7\bin\Debug\Truong_7.pdb
+C:\Users\Office04\Desktop\C# programming I\Assignment 7\Truong_7\Truong_7\obj\Debug\Truong_7.csprojResolveAssemblyReference.cache
+C:\Users\Office04\Desktop\C# programming I\Assignment 7\Truong_7\Truong_7\obj\Debug\Truong_7.exe
+C:\Users\Office04\Desktop\C# programming I\Assignment 7\Truong_7\Truong_7\obj\Debug\Truong_7.pdb

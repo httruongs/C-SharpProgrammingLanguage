@@ -1,0 +1,6 @@
+C:\Users\Office04\Desktop\C# programming I\Assignment 8\Time1\Time1\bin\Debug\Time1.exe.config
+C:\Users\Office04\Desktop\C# programming I\Assignment 8\Time1\Time1\bin\Debug\Time1.exe
+C:\Users\Office04\Desktop\C# programming I\Assignment 8\Time1\Time1\bin\Debug\Time1.pdb
+C:\Users\Office04\Desktop\C# programming I\Assignment 8\Time1\Time1\obj\Debug\Time1Test.csprojResolveAssemblyReference.cache
+C:\Users\Office04\Desktop\C# programming I\Assignment 8\Time1\Time1\obj\Debug\Time1.exe
+C:\Users\Office04\Desktop\C# programming I\Assignment 8\Time1\Time1\obj\Debug\Time1.pdb
